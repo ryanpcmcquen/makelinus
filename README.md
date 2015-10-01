@@ -1,10 +1,10 @@
-## YogiFilla
+## MakeLinus
 
-https://yogifil.la
+https://makelin.us
 
 ### To Do
 
-- FIND MORE IMAGES OF YOGI
+- FIND MORE IMAGES OF LINUS
 
 Hat tip to @davecowart: https://github.com/davecowart
 
