@@ -1,11 +1,12 @@
 source 'https://rubygems.org'
 
-ruby '2.2.9'
+ruby '2.4.10'
 
 gem 'sinatra'
 gem 'rmagick'
 gem 'gabba'
 gem 'newrelic_rpm'
 gem 'heroku'
+gem 'heroku-api'
 gem 'thin'
 
