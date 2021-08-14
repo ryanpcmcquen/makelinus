@@ -1,6 +1,6 @@
 ## MakeLinus
 
-https://makelin.us
+https://makelinus.herokuapp.com
 
 ### To Do
 
